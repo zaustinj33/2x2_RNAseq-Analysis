@@ -1,10 +1,10 @@
-# PRlab_RNAseq
+# 2x2Groups_RNAseq
 
 ### DESeq analysis of 2 related cell types against two other related cell types ###
 
-Input: Raw counts data
+Input: Raw counts data of cells that follow a 2x2 experimental design
 
 Output:
-PCA plots of all four groups
+PCA plots of all four comparisions
 Volcano plots
 Filtered top DE genes between all four possible group comparisions
