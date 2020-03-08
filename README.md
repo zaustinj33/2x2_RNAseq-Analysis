@@ -1,4 +1,4 @@
-# 2x2Groups_RNAseq
+# 2x2Groups RNAseq analysis 
 
 ### DESeq analysis of 2 related cell types against two other related cell types ###
 
